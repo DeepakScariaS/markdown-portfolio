@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**MCA**
+__PROGRAMMER__
+*Have good Analytical and Problem Solvng skills*
